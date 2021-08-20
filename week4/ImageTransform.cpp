@@ -8,12 +8,6 @@
 
 /* ******************
 (Begin multi-line comment...)
-
-Write your name and email address in the comment space here:
-
-Name: Dennis Johnson
-Email: densarjohn@gmail.com
-
 (...end multi-line comment.)
 ******************** */
 
